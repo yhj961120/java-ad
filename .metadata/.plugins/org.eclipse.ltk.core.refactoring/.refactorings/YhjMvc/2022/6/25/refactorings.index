@@ -1,0 +1,12 @@
+1655440610443	Rename package 'kr.or.ddit.member'
+1655440646469	Rename package 'kr.or.ddit.member.dao'
+1655440655134	Rename package 'kr.or.ddit.borad'
+1655440662790	Rename package 'kr.or.ddit.member.service'
+1655440679047	Rename package 'kr.or.ddit.member.vo'
+1655444202318	Rename type 'MemberVO'
+1655444250026	Rename type 'IMemberDAO'
+1655448010891	Rename type 'MemberDAOImpl'
+1655462434191	Rename type 'IMemberService'
+1655462585566	Rename type 'MemberInfoMain'
+1655462647975	Rename type 'MemberServiceImpl'
+1655463305723	Delete element

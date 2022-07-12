@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kr.or.ddit.basic.T01Jdbctest.java&apos; to &apos;T01JdbcTest.java&apos;&#x0D;&#x0A;- Original project: &apos;JDBCTest&apos;&#x0D;&#x0A;- Original element: &apos;kr.or.ddit.basic.T01Jdbctest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.or.ddit.basic.T01JdbcTest.java&apos;" description="Rename compilation unit &apos;T01Jdbctest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;kr.or.ddit.basic{T01Jdbctest.java" name="T01JdbcTest.java" references="false" stamp="1653985155012" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+1655873249692	Copy package
+1655873525885	Rename package 'kr.or.ddit.member'
+1655873552504	Rename package 'kr.or.ddit.member.dao'
+1655873559730	Rename package 'kr.or.ddit.member.service'
+1655873567244	Rename package 'kr.or.ddit.member.vo'
+1655873698033	Rename compilation unit 'MemberVO.java'
+1655873716896	Delete element
+1655873738908	Rename type 'IMemberService'
+1655873751616	Rename type 'MemberServiceImpl'
+1655874578372	Rename type 'IMemberDAO'
+1655874587436	Rename type 'MemberDAOImpl'
+1655874596600	Rename type 'MemberDAOImplForJDBC'
+1655874723233	Delete element
+1655875192037	Rename type 'MemberInfoMain'
+1655876646371	Delete element
+1655876651808	Copy file
+1655876661332	Delete element
+1655876668661	Rename resource 'member.xml'
+1655942531035	Delete element
+1655942548854	Delete element

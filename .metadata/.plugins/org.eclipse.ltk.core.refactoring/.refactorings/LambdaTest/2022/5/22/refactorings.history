@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;LambdaTest&apos;&#x0D;&#x0A;- Original project: &apos;LambdaTest&apos;&#x0D;&#x0A;- Original element: &apos;LambdaTest/src/kr.or.ddit&apos;&#x0D;&#x0A;- Delete subpackages" description="Delete element" element1="/src&lt;kr.or.ddit.basic" element2="/src&lt;kr.or.ddit" element3="/src&lt;kr.or" element4="/src&lt;kr" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1653610559110" subPackages="true" version="1.0"/>
+</session>
